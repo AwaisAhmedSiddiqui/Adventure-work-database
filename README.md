@@ -14,7 +14,7 @@ AdventureWorks is a Microsoft-supplied sample that model a fictitious bicycle co
 5. Control flow view from SSIS (Figure1).
 
 <p align="center">
-  <img width="500" src="Images/Fig1.jpg">
+  <img width="500" src="Fig1.jpg">
 </p>
 
 6. Data Flow view from SSIS (Figure2).
